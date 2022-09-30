@@ -9263,7 +9263,7 @@ background: #7952b3;
 /* SECTION */
 .section {
   position: relative;
-  padding: 65px 0; }
+  padding: 0; }
   @media (max-width: 767px) {
     .section {
       padding: 2rem 0; } }
